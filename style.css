@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+
+.derecha{
+    float:right;
+}
+
+.post {
+    width: 400px;
+    background: white;
+padding: 3px;
+margin: auto;
+}
